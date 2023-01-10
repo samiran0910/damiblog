@@ -1,7 +1,6 @@
 import { request, gql } from 'graphql-request';
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1005530345382977"
-     crossorigin="anonymous"></script>
+
 
 const graphqlAPI = process.env.NEXT_PUBLIC_GRAPHCMS_ENDPOINT;
 
