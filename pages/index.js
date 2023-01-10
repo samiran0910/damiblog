@@ -2,8 +2,7 @@ import { FeaturedPosts } from '../sections/index';
 import { PostCard, Categories, PostWidget } from '../components';
 import { getPosts } from '../services';
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1005530345382977"
-     crossorigin="anonymous"></script>
+
 
 export default function Home({ posts }) {
   return (
