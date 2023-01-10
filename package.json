@@ -7,10 +7,10 @@
   },
   "engineStrict": true,
   "scripts": {
-    "dev": "next --openssl-legacy-provider dev",
-    "build": "next --openssl-legacy-provider build",
-    "start": "next --openssl-legacy-provider start",
-    "lint": "next --openssl-legacy-provider lint"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "graphql": "^15.6.1",
